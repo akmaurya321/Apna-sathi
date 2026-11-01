@@ -1,0 +1,19 @@
+{
+  "name": "अमीन साथी",
+  "short_name": "अमीन साथी",
+  "description": "अपनी जरूरी वेबसाइटें और लिंक एक जगह सेव करें।",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F8F5",
+  "theme_color": "#17483B",
+  "orientation": "portrait",
+  "lang": "hi-IN",
+  "icons": [
+    {
+      "src": "assets/images/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
